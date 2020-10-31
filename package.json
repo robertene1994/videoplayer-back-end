@@ -1,0 +1,23 @@
+{
+    "name": "videoplayer-back-end",
+    "version": "1.0.0",
+    "private": true,
+    "license": "MIT",
+    "author": "Robert Stefanita Ene",
+    "description": "Back-end application for playing videos with subtitles and MPEG-DASH technology.",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js",
+        "start:dev": "nodemon src/server.js"
+    },
+    "dependencies": {
+        "cors": "2.8.5",
+        "express": "4.17.1"
+    },
+    "devDependencies": {
+        "eslint": "7.12.1",
+        "eslint-config-airbnb-base": "14.2.0",
+        "eslint-plugin-import": "2.22.1",
+        "nodemon": "2.0.6"
+    }
+}
