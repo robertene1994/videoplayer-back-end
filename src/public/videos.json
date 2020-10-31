@@ -1,0 +1,53 @@
+[{
+        "id": 1,
+        "name": "Big Buck Bunny",
+        "url": "/video/big_buck_bunny.mp4"
+    },
+    {
+        "id": 2,
+        "name": "Toy Story",
+        "url": "/video/toystory.mp4"
+    },
+    {
+        "id": 3,
+        "name": "Pacific Rim Uprising (Sub.)",
+        "url": "/video/pacific_rim_uprising.mp4",
+        "subtitles": [{
+            "language": "Español",
+            "srclang": "sp",
+            "url": "/subtitle/pacific_rim_uprising_sp.vtt"
+        }, {
+            "language": "Français",
+            "srclang": "fr",
+            "url": "/subtitle/pacific_rim_uprising_fr.vtt"
+        }]
+    },
+    {
+        "id": 4,
+        "name": "God of War (Sub.)",
+        "url": "/video/god_of_war.mp4",
+        "subtitles": [{
+            "language": "Español",
+            "srclang": "sp",
+            "url": "/subtitle/god_of_war_sp.vtt"
+        }, {
+            "language": "Français",
+            "srclang": "fr",
+            "url": "/subtitle/god_of_war_fr.vtt"
+        }]
+    },
+    {
+        "id": 5,
+        "name": "Assassin's Creed (Sub.)",
+        "url": "/video/assassins_creed.mp4",
+        "subtitles": [{
+            "language": "Español",
+            "srclang": "sp",
+            "url": "/subtitle/assassins_creed_sp.vtt"
+        }, {
+            "language": "Français",
+            "srclang": "fr",
+            "url": "/subtitle/assassins_creed_fr.vtt"
+        }]
+    }
+]
